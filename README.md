@@ -2,6 +2,7 @@
 Virtual Quantum Machine: This is a lofi implementation of simulation of Virtual Quantum Machine designed to solve the travelling salesman problem (TSP). The TSP is a classical optimization problem where the goal is to find the shortest possible path that visits a set of cities and returns to the starting city.
 
 This virtual machine uses cycles with different behaviors to explore and find optimal path in a graph.
+
 Point Class (Point.h, Point.cpp):
 
 - Represents a point in a two-dimensional space with x and y coordinates.
